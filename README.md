@@ -1,1 +1,0 @@
-# WiseOldMan-DiscordBot
